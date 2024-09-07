@@ -47,7 +47,6 @@ To get started with the Password Checker, follow these steps:
 
 The Password Checker provides several commands for different functionalities. Use the following commands:
 
-    ```bash
     # Check Password Strength
     ./password_checker.rb --pw {password}
 
@@ -65,7 +64,6 @@ The Password Checker provides several commands for different functionalities. Us
 
     # Display Help
     ./password_checker.rb --help
-    ```
 
 ## License
 
