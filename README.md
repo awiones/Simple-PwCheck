@@ -47,22 +47,31 @@ To get started with the Password Checker, follow these steps:
 
 The Password Checker provides several commands for different functionalities. Use the following commands:
 
-```bash
-# Check Password Strength
-./password_checker.rb --pw {password}
+    ```bash
+    # Check Password Strength
+    ./password_checker.rb --pw {password}
 
-# Encrypt Password
-./password_checker.rb --encrypte {type} {password}
+    # Encrypt Password
+    ./password_checker.rb --encrypte {type} {password}
 
-# Generate Strong Password
-./password_checker.rb --generate {length}
+    # Generate Strong Password
+    ./password_checker.rb --generate {length}
 
-# Check Password History
-./password_checker.rb --history {password}
+    # Check Password History
+    ./password_checker.rb --history {password}
 
-# Suggest Strong Passwords
-./password_checker.rb --suggest {password}
+    # Suggest Strong Passwords
+    ./password_checker.rb --suggest {password}
 
-# Display Help
-./password_checker.rb --help
-```
+    # Display Help
+    ./password_checker.rb --help
+    ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ by Awiones
+
