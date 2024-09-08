@@ -25,8 +25,8 @@ To get started with the Password Checker, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/password_checker.git
-    cd password_checker
+    git clone https://github.com/awiones/Simple-PwCheck.git
+    cd Simple-PwCheck
     ```
 
 2. **Install Dependencies**:
@@ -40,7 +40,7 @@ To get started with the Password Checker, follow these steps:
     Then install the required gems:
 
     ```bash
-    bundle install
+    gem install bcrypt argon2
     ```
 
 ## Usage
