@@ -27,6 +27,8 @@ To get started with the Password Checker, follow these steps:
     ```bash
     git clone https://github.com/awiones/Simple-PwCheck.git
     cd Simple-PwCheck
+    chmod +x password_checker.rb
+    ./password_checker.rb --help
     ```
 
 2. **Install Dependencies**:
